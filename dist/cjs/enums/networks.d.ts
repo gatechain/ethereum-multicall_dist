@@ -49,4 +49,5 @@ export declare enum Networks {
   milkomeda = 2001,
   kcc = 321,
   etherlite = 111,
+  confluxeSpace = 1030,
 }

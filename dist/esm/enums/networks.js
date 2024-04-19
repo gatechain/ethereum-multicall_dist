@@ -50,4 +50,5 @@ export var Networks
   Networks[(Networks['milkomeda'] = 2001)] = 'milkomeda'
   Networks[(Networks['kcc'] = 321)] = 'kcc'
   Networks[(Networks['etherlite'] = 111)] = 'etherlite'
+  Networks[(Networks['confluxeSpace'] = 1030)] = 'confluxeSpace'
 })(Networks || (Networks = {}))

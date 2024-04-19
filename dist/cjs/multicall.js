@@ -604,6 +604,8 @@ var Multicall = /** @class */ (function () {
         return '0xcA11bde05977b3631167028862bE2a173976CA11'
       case enums_1.Networks.etherlite:
         return '0x21681750D7ddCB8d1240eD47338dC984f94AF2aC'
+      case enums_1.Networks.confluxeSpace:
+        return '0xEFf0078910f638cd81996cc117bccD3eDf2B072F'
       default:
         throw new Error(
           'Network - ' +
